@@ -1,0 +1,4 @@
+com\verros\websocket\ChatEndpoint.class
+com\verros\websocket\MessageDecoder.class
+com\verros\model\Message.class
+com\verros\websocket\MessageEncoder.class
